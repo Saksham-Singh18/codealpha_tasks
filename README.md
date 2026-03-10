@@ -83,7 +83,13 @@ A Java-based **AI chatbot with a graphical user interface** that interacts with 
 
 # Project Outputs
 
-Screenshots of program outputs and GUI interactions can be added here.
+Screenshots of program outputs and GUI interactions.
+
+<img width="400" height="485" alt="Screenshot 2026-03-10 232450" src="https://github.com/user-attachments/assets/1e96ebbc-2509-4904-b20b-6e292a999452" />
+
+<img width="389" height="789" alt="Screenshot 2026-03-10 232509" src="https://github.com/user-attachments/assets/be8fdfff-db2c-4e97-a551-b24edd889d51" />
+
+<img width="480" height="603" alt="Screenshot 2026-03-10 232536" src="https://github.com/user-attachments/assets/b26144e1-076c-49c3-89df-a4b85424885c" />
 
 ---
 
